@@ -1,0 +1,10 @@
+{
+  "appId": "test.reproductionapp",
+  "appName": "ReproductionApp",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
