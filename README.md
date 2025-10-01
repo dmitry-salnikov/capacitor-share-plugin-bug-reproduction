@@ -1,4 +1,4 @@
-Test app to demonstrate reproduction of the bug `@capacitor/share` Capacitor plugin: https://github.com/ionic-team/capacitor-plugins/issues/2424. Created with Capacitor Create App.
+Test app to demonstrate reproduction of the bug in Capacitor plugin: https://github.com/ionic-team/capacitor-plugins/issues/2424. Created with Capacitor Create App.
 
 - Clone
 - Run in terminal:
